@@ -17,3 +17,12 @@
 
 
 ### Часть 2
+
+1. В British National Corpus (BNC) нашла с помощью Word Sketch три самых частотных модификатора (modifiers) существительного question. Оказалось это слова: difficult, important, fundamental
+
+![alt-текст](https://pp.userapi.com/c830109/v830109831/ca1e8/U4tPSDEftoE.jpg "Необязательный титул")
+
+2. Выбрала два синонимичных глагола - say, tell.  Через Sketch diff  выяснила, с какими дополнениями (objects) они могут употребляться. Вывод: word, goodbye,	spokesman три самых популярных дополнения с say. А tale, conference, storey с tell. И оба глагола могут употребляться с двумя дополнениями: man, yesterday.
+
+![alt-текст](https://pp.userapi.com/c830409/v830409833/d1ddd/7IGb8gfApNc.jpg "Необязательный титул")
+
